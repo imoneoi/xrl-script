@@ -4,10 +4,10 @@ Efficient distributed AutoRL script for any framework
 
 ## Features
 
-[x] Distributed training on single machine, multiple CPU/GPUs
-[x] Automatic resource allocation
-[x] TPESampler and Hyperband pruner support
-[ ] Automatic testing for stable hyperparameter set
+- [x] Distributed training on single machine, multiple CPU/GPUs
+- [x] Automatic resource allocation
+- [x] TPESampler and Hyperband pruner support
+- [ ] Automatic testing for stable hyperparameter set
 
 ## Usage
 
