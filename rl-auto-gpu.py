@@ -2,8 +2,6 @@ from .rl import train_rl_agent
 
 import numpy as np
 
-import gym
-
 import os
 from os import path
 from datetime import datetime
